@@ -1,0 +1,1 @@
+echo "$(date)-> Run after" >> $1
